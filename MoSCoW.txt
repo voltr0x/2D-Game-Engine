@@ -1,0 +1,51 @@
+* Summary
+
+Replace this text with a short description of your game here.
+Top down puzzle game based on Tower of the Sorcerer. There are numerous levels, and the player must pick up keys to advance to the next room. There are monsters and bosses that the player must fight, so the strategy revolves around having enough health to defeat the necessary enemies to get the keys. There are also health potions to increase health.
+
+
+* Milestone 2
+
+Must
+[ ] Numerous levels that the player can get to.
+[ ] Keys that are required to be collected to advance to next level.
+[ ] Doors that can be activated.
+
+Should
+[ ] UI that displays basic information.
+[ ] 
+
+Could
+[ ] In depth UI similar to the original game.
+[ ] 
+
+Won't
+[ ]
+[ ]
+
+
+
+* Milestone 3
+
+Must
+[ ] Health potions that increase the players health.
+[ ] Combat between player and enemies.
+[ ] Enemies that block certain paths.
+
+Should
+[ ] Different enemies with different stats.
+[ ]
+
+Could
+[ ] Cash shop where players can buy gear.
+[ ] 
+
+Won't
+[ ]
+[ ]
+
+Extensions
+[ ] A unique type of enemy - Viraj Shirodkar
+[ ] Random level generation - Sean Maloney
+[ ] Upgradeble equipment through shop / or alter. Paid for by coins that player collects. David 
+[ ] Topbar menu and launch editor inside the game - Ye Liu 

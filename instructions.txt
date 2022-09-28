@@ -1,0 +1,21 @@
+Put any instructions needed to play your game and access required features and extensions here.
+
+Breakout:
+Left and Right arrow keys to move the paddle.
+Space to start a level, P to pause, R to reset level, N to skip to next level, Q to quit the game.
+
+Platformer:
+Left and Right arrow keys to move the player. Up arrow key to jump.
+Collect Gold coins to increase score, Silver coins to become invisible to the enemy for a short amount of time 
+and reach the objective to complete the level.
+Space to start a level, P to pause, R to reset level, N to skip to next level, Q to quit the game.
+
+Custom:
+(2D top-down dungeon crawler)
+Left, Right, Up and Down arrow keys to move the player.
+Collect keys to unlock doors.
+Collecting coin sprite gives player 100 coins. Player can spend these coins to increase attack and defense values. Press 'a' to increase attack by
+25 points for 25 coins. Press 'd' to increase defense by 25 points for 25 coins.
+Attack an enemy by colliding with it. Outcome of battles are dependent on player / enemy health, attack and defense values.
+There is an indestructible enemy in the game who shoots a beam of laser, the player needs to time and avoid the beams.
+Space to start a level, P to pause, R to reset level, N to skip to next level, Q to quit the game.

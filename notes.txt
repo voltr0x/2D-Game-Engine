@@ -1,0 +1,31 @@
+[TODOs]
+* Things need to do, pls update here and mark status of the issues
+* List anything you want to add or modify
+* Mark DONE when it be sovled
+
+Breakout
+[x] implement next level when all bricks be removed
+[x] update screen instructions: add P for Pause
+[x] refactor spawner make it sigleton if possible
+[ ] move ball and paddle speed to settings [BreakoutObjects.hpp]
+[ ] check compatibility of new code for Platformer
+    - player and enemy arent moving anymore
+[ ] re-organize project structure
+[ ] may integrate state machine from Lab 08
+
+
+Editor
+[x] When adding coins, texture isnt loaded properly.
+[x] Level doesn't load for breakout
+[ ] Add better way to determine editor for breakout or platformer (maybe cli flag or menu)
+[x] Bricks should be color, not random
+[ ] changing scaling on breakout objects
+
+
+Custom M2 
+[x] Asset for keys (currently using silver coins from platformer)
+[x] Different player Asset 
+[ ] Differnet background Asset 
+[X] Multiple levels
+[x] UI
+[ ] docs / tests

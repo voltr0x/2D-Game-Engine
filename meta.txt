@@ -1,0 +1,41 @@
+-- Who worked on this lab? Include names and GitHub usernames.
+Astor Meredith-Goujon Astor730
+Sean Maloney : maloney-sean
+David Jamrog: djamrog94
+Ye Liu : yeliu802
+Viraj Shirodkar : voltr0x
+
+
+-- Did you implement any extentions? If so, which ones, who implemented each, and how can they be tried out?
+David - Added ability to pick up coins. Can spend these coin on upgrades to attack and defense. More instructions in instruction.txt.
+Sean - Added random level generation. Can be tried by pressing "O" to toggle random level generation on and then pressing "N" once in that mode to generate a level.
+Viraj - Added an indestructible enemy which shoots a beam of laser and kills the player instantly.
+
+-- Did you use any external resources? If so, cite them below.
+Got sprites from free website, used stack overflow and SDL docs for synatax questions.
+Referenced https://hurna.io/academy/algorithms/maze_generator/kruskal_s.html for some maze generation details. 
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+We used the resource manager from the previous project and the tiny math lab, and resource path lab.
+Refactored project to use much of the base code from lab 06
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+- N/A group project.
+
+
+-- Describe your approach to implementing the lab.
+
+
+
+-- How many hours did it take you to complete this lab?
+8 - djamrog94
+10 - maloney-sean
+8 - voltr0x
+
+
+-- (Optional) What was your favorite part of the lab?
+
+
+
+-- (Optional) How would you improve the lab?
